@@ -29,7 +29,7 @@ Enthusiast;Transforming+ideas+into+digital+reality/>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pratyush-Panda-2006&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
- <p><i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i></p>
+ <p><i>"Code is like humor. When you have to explain it, it's bad."–Cory House</i></p>
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;Let's+build+something+awesome+together!;Check+out+my+repositories+↓" />
   </p>
