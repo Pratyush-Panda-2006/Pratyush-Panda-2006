@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Pratyush Panda</h1>
+<h1 align="center">Hey,I'm Pratyush Panda</h1>
 <h3 align="center"><i> Full-Stack Developer (MERN Stack)• Data Science and AI/ML Enthusiast</i></h3>     
 
 <p align="center">
