@@ -30,6 +30,4 @@ Enthusiast;Transforming+ideas+into+digital+reality/>
 
  <p><i>"Code is like humor. When you have to explain it, it's bad."–Cory House</i> </p>
   <p>
- <img src="https://readme-typingsvg.herokuapp.comfont=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;Let's+build+something+awesome+together!;Check+out+my+repositories+↓" />
-  </p>
 </div>
