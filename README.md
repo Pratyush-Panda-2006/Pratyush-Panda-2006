@@ -5,7 +5,16 @@
 Enthusiast;Transforming+ideas+into+digital+reality/>    
 </p>
 
+<!-- <p align="right">
+  <sub>🧑‍💻 YoE: 4.5+</sub>
+</p> -->
+
+###
+
 ![Demo](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
+
+ 
+![GitHub Streak](https://streak-stats.demolab.com/?user=ssbarik&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5)
 
 ---
 
