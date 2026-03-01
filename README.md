@@ -29,9 +29,6 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pratyush-Panda-2006&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pratyush-Panda-2006&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
-  <div align="center">
-
-[![An image of @pratyushpanda2006's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratyushpanda2006)](https://holopin.io/@pratyushpanda2006)
  
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pratyush-Panda-2006&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
