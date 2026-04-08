@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Pratyush-Panda-2006&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" />
 </p>
-
 ---
 
 <p align="center">
