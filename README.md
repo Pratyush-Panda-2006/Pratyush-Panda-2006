@@ -1,11 +1,6 @@
 <h1 align="center">Hey, I'm Pratyush Panda</h1>
 <h3 align="center"><i>Full-Stack Developer(MERN Stack) • Data Science and AI/ML Enthusiast</i></h3>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pratyush-Panda-2006&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pratyush-Panda-2006&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full-stack+developer;AI/ML+Engineer;Data+Science+Enthusiast;Transforming+ideas+into+digital+reality" />
 </p>
@@ -35,6 +30,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pratyush-Panda-2006&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pratyush-Panda-2006&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</div>
 
 
  <p><i>"Code is like humor. When you have to explain it, it's bad."–Cory House</i> </p>
