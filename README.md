@@ -1,38 +1,58 @@
-<h1 align="center">Hey,I'm Pratyush Panda</h1>
-<h3 align="center"><i>Full-Stack Developer (MERN Stack) • Data Science and AI/ML Enthusiast </i></h3>
+<h1 align="center">Hey, I'm Pratyush Panda 👋</h1>
+<h3 align="center"><i>Full-Stack Developer (MERN) • AI/ML & Data Science Enthusiast</i></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full-stack+developer;AI/ML+Engineer;Data+Science+Enthusiast;Transforming+ideas+into+digital+reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full-stack+developer;AI%2FML+Engineer;Data+Science+Enthusiast;Transforming+ideas+into+digital+reality" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pratyush-Panda-2006&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" />
-</p>
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" alt="Demo" />
-</p>
+### 💡 About Me
+- 🎓 Computer Science & Engineering Student at **Siksha 'O' Anusandhan (ITER)**
+- 🚀 Passionate about building full-stack Web Applications and AI Agentic workflows.
+- 📬 Reach out to me: **pandapratyush221@gmail.com**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tf_pratyush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratyush-panda2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandapratyush221@gmail.com) 
-
----
-   
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=css,gcp,html,js,mongodb,mysql,nodejs,py,react" />
-  <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="50" height="50" style="vertical-align: top; margin-left: 5px;" />
+  <a href="https://linkedin.com/in/pratyush-panda2006">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/tf_pratyush">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:pandapratyush221@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
-## 📈 GitHub Analytics    
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **ScamSentinel** | Autonomous AI Honeypot using Gemini API to waste scammers' time and extract threat intelligence. | `Python` `Gemini API` `Streamlit` |
+| **FarmBuddy** | Smart Agriculture Diagnostic Tool utilizing Gemini Multimodal API for crop & livestock health. | `React` `Node.js` `Firebase` |
+| **TheQRStudio** | Feature-rich custom QR code generator platform. | `React` `Node.js` `Tailwind` |
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=css,gcp,html,js,mongodb,mysql,nodejs,py,react,java,tailwind,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Analytics
+
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Pratyush-Panda-2006&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" /><br/><br/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pratyush-Panda-2006&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pratyush-Panda-2006&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
+<br/>
 
- <p><i>"Code is like humor. When you have to explain it, it's bad."–Cory House</i> </p>
-  <p>
-</div>
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</p>
