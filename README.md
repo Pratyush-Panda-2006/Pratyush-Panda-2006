@@ -15,8 +15,16 @@
   <img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" alt="Demo" />
 </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tf_pratyush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratyush-panda2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandapratyush221@gmail.com) 
+<div align="center">
+
+| 🏅 | Achievement | Numbers |
+|:--:|------------|:-------:|
+| 🥇 | **NSoC 2026** — Contributor | Rank **#138 / 5000+** |
+| 🤝 | **GSSoC '26** — Contributor | Rank **#125 / 50000+** |
+| 🎓 | **SSoC '26** — Top Contributor | Rank **#38 / 50000+**|
+| 🌍 | **ECWoC 2025** — Top Contributor | Rank **#14 / 5000+** |
+
+</div>
 
 ---
    
