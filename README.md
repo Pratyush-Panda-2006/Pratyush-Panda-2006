@@ -20,9 +20,9 @@
 | 🏅 | Achievement | Numbers |
 |:--:|------------|:-------:|
 | 🥇 | **NSoC 2026** — Contributor | Rank **#138 / 5000+** |
-| 🤝 | **GSSoC '26** — Contributor | Rank **#125 / 50000+** |
+| 🤝 | **GSSoC '26** — Top Contributor | Rank **#108 / 50000+** |
 | 🎓 | **SSoC '26** — Top Contributor | Rank **#38 / 50000+**|
-| 🌍 | **ECSoC '26** — Top Contributor | Rank **#14 / 5000+** |
+| 🌍 | **ECSoC '26** — Top Contributor | Rank **#14 / 3875** |
 
 </div>
 
