@@ -26,15 +26,6 @@
 
 </div>
 
----
-   
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=css,gcp,html,js,mongodb,mysql,nodejs,py,react" />
-  <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="50" height="50" style="vertical-align: top; margin-left: 5px;" />
-</p>
-
----
 
 
 <div align="center">
