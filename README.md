@@ -35,11 +35,7 @@
 </p>
 
 ---
-## 📈 GitHub Analytics    
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pratyush-Panda-2006&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pratyush-Panda-2006&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
+
 
 <div align="center">
  <p><i>"Code is like humor. When you have to explain it, it's bad."–Cory House</i> </p>
