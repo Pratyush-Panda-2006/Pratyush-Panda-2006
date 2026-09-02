@@ -22,7 +22,7 @@
 | 🥇 | **NSoC 2026** — Contributor | Rank **#138 / 5000+** |
 | 🤝 | **GSSoC '26** — Top Contributor | Rank **#97 / 50000+** |
 | 🎓 | **SSoC '26** — Top Contributor | Rank **#38 / 50000+** |
-| 🌍 | **ECSoC '26** — Top Contributor | Rank **#14 / 4000+** |
+| 🌍 | **ECSoC '26** — Top Contributor | Rank **#12 / 4000+** |
 
 </div>
 
