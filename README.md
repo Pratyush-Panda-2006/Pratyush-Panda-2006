@@ -2,7 +2,7 @@
 <h3 align="center"><i>Full-Stack Developer (MERN Stack) • Data Science and AI/ML Enthusiast</i></h3>
 
 <p align="center">
-     <img src="https://visitor-badge.laobi.icu/badge?page_id=Pratyush-Panda-2006.repoName"
+     <img src="https://visitor-badge.laobi.icu/badge?page_id=username.repoName"
          alt="GitHub visitors">
 </p>
 
